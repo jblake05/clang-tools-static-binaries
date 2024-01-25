@@ -1,5 +1,8 @@
 # clang-tools (clang-format, clang-query, clang-tidy) static binaries
 
+## Fork
+The fork was just made to limit the versions being built to Windows for Clang 17
+
 ## Download
 
 Grab clang-tools static binaries for your platform from [Releases](https://github.com/muttleyxd/clang-format-static-binaries/releases) tab!
